@@ -1,3 +1,3 @@
 Problem Description:  
 
--> This is an OpenMP program for computing a vector dot product for size $N$.  
+-> This is an OpenMP program for computing a matrix-vector product for a system of size $N \times N$.  
